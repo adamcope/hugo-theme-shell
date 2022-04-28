@@ -23,7 +23,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Molokai"
+  scheme = "shell-ubuntu"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -36,10 +36,10 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
-  workDir = "mydir"
-  profile = "profile.txt"
+  userName = "Schreber"
+  pcName = "元気隊医療訓練人形"
+  workDir = "neuro-cognitive_manifold_v1.33.7"
+  profile = "README.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -63,7 +63,7 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
+  Hi I am Yuki Takamoto, a medical training doll designed by GENKI||BIOMED!
   Nice to meet you!
   
   """
@@ -77,11 +77,9 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["User Agreement", "https://www.example.com/"],
+    ["n12@#$@!#-[CORRUPTED]", "https://www.example.com/"],
+    ["Cognito-Affective Algorithm", "https://golang.org/"],
   ]
 
 [module]
